@@ -44,7 +44,7 @@
   line-height: 16px;
   color: #FFFFFF;
   border: 0;
-  cursor: pointer;
+  cursor: progress;
 }
 .first-view__main-content {
   margin-top: 186px;
